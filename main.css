@@ -32,6 +32,11 @@ p {
   width: 30%;
   flex: 1 1 initial;
   border: 5x solid black;
+  border-radius: 5px;
+  font-family: "Caprasimo", serif;
+  font-weight: 200;
+  font-style: normal;
+  
 }
 
 span {
@@ -42,4 +47,8 @@ span {
 
 .center {
   margin: auto;
+}
+
+.card-3 {
+  
 }
