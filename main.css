@@ -10,7 +10,6 @@ img {
 }
 
 .section-1 {
-  justify-content: center;
 }
 
 .wrapper {
@@ -19,7 +18,6 @@ img {
 }
 
 h2 {
-  justify-content: center;
   border: 1x solid lightblue
 }
 
@@ -30,9 +28,7 @@ p {
 .card-container {
   margin: 10px;
   width: 30%;
-  flex: 1 1 initial;
   border: 5x solid black;
-  border-radius: 5px;
   font-family: "Caprasimo", serif;
   font-weight: 200;
   font-style: normal;
@@ -47,6 +43,14 @@ span {
 
 .center {
   margin: auto;
+}
+
+.sixty-nine {
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
 }
 
 .card-3 {
